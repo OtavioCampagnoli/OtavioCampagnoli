@@ -8,11 +8,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=otaviocampagnoli&label=Profile%20views&color=0e75b6&style=flat" alt="otaviocampagnoli" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/otaviocampagnoli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin otaviocampagnoli" height="60" width="60" /></a>
-</p>
-
 <div>
 <h3 align="left">Language and Tools: </h3>
 <p align="left">
