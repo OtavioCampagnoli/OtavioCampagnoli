@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Otávio Campagnoli</h1>
 <h3 align="center">👨‍💻 Java Full Stack Developer Intern from Brazil</h3>
 
-- 🔧 I’m currently learning **Java, JavaScript and TypeScript.**
-- 🎓 I'm currently studying **Analysis and Systems Development.**
+- 🔧 I’m currently improving my skills in **Java, Spring Boot and Angular.**
+- 🎓 I'm pursuing a degree in **Analysis and Systems Development.**
 - 📫 How to reach me **otaviocampagnoli@hotmail.com**
 - 🌱 Always learning and open to new opportunities and collaborations. Let's create something together? 😊
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=otaviocampagnoli&label=Profile%20views&color=0e75b6&style=flat" alt="otaviocampagnoli" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=otaviocampagnoli&label=Profile%20views&color=0e75b6&style=flat" alt="otaviocampagnoli" /></p>
 
 <div>
-<h3 align="left">Language and Tools: </h3>
+<h3 align="left">Languages and Tools: </h3>
 <p align="left">
 <a href="https://dev.java/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
