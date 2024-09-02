@@ -21,18 +21,16 @@
   alt="angular14" width="60" height="60"/>
 </a>
 
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-    alt="css3" width="60" height="60"/>
-  </a>
-  <a href="https://v14.angular.io/docs" target="_blank" rel="noreferrer">
+ <a href="https://v14.angular.io/docs" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
     alt="angular14" width="60" height="60"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"
+
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
     alt="css3" width="60" height="60"/>
   </a>
+
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
