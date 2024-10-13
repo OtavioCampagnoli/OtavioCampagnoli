@@ -11,35 +11,41 @@
 <div>
 <h3 align="left">Languages and Tools: </h3>
 <p align="left">
-<a href="https://dev.java/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+  <a href="https://dev.java/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+        alt="angular14" width="60" height="60"/>
+  </a>
+  
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
       alt="angular14" width="60" height="60"/>
-</a>
-
-<a href="https://spring.io/projects/spring-boot" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-  alt="angular14" width="60" height="60"/>
-</a>
-
- <a href="https://v14.angular.io/docs" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
-    alt="angular14" width="60" height="60"/>
   </a>
-
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-    alt="css3" width="60" height="60"/>
+  
+   <a href="https://v14.angular.io/docs" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+      alt="angular14" width="60" height="60"/>
   </a>
-
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
-    alt="mysql" width="60" height="60"/>
-</a>
-
+  
+   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+      alt="css3" width="60" height="60"/>
+  </a>
+  
+  
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
+      alt="mysql" width="60" height="60"/>
+  </a>
+  
+  
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="pgsql" width="60" height="60" />
+  </a>
+  
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-    alt="linux" width="60" height="60"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+      alt="linux" width="60" height="60"/>
   </a>
 </p>
 </div>
