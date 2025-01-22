@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Otávio Campagnoli</h1>
-<h3 align="center">👨‍💻 Java Full Stack Developer Intern from Brazil</h3>
+<h3 align="center">👨‍💻 Software Developer from Brazil</h3>
 
 - 🔧 I’m currently improving my skills in **Java, Spring Boot and Angular.**
 - 🎓 I'm pursuing a degree in **Analysis and Systems Development.**
