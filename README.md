@@ -23,15 +23,15 @@
 
 ### 🛠️ Languages & Tools
 
-<p align="center">
-  <a href="https://dev.java/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="48" height="48"/></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" width="48" height="48"/></a>
-  <a href="https://angular.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="48" height="48"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL" width="48" height="48"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="48" height="48"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/></a>
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; align-items: center; vertical-align: middle;">
+  <a href="https://dev.java/" target="_blank" style="vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="48" height="48"/></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" style="vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" width="48" height="48"/></a>
+  <a href="https://angular.io/" target="_blank" style="vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="48" height="48"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" style="vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48"/></a>
+  <a href="https://www.mysql.com/" target="_blank" style="vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL" width="48" height="48"/></a>
+  <a href="https://www.postgresql.org/" target="_blank" style="vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="48" height="48"/></a>
+  <a href="https://www.linux.org/" target="_blank" style="vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/></a>
+</div>
 
 ---
 
